@@ -1,0 +1,25 @@
+{
+  "name": "yes",
+  "version": "1.0.0",
+  "description": "this is about depliying the project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "devStart": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amitk7388/Learn-CSS.git"
+  },
+  "author": "amit kumar sahu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Amitk7388/Learn-CSS/issues"
+  },
+  "homepage": "https://github.com/Amitk7388/Learn-CSS#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.2",
+    "path": "^0.12.7"
+  }
+}
